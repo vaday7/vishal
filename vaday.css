@@ -1,0 +1,67 @@
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+h1 {
+      color: dark green;
+    font-family:  'Corben', Georgia, Times, serif;
+    font-size: 400%;
+    
+
+}
+
+h2 {
+    font-family: 'Rouge Script', cursive;
+    font-size: 200%;
+}
+
+h3 { 
+   font-family: 'Corben', Georgia, Times, serif;
+    
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+    width: 100%;
+	
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 4;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+
+li {
+	color:red
+    margin-left: -30px;
+}
+
+p { 
+	font-family: 'Rouge Script', cursive; margin-bottom: 15px; 
+    }
+
+body {
+background:url(http://i376.photobucket.com/albums/oo207/rosenelf/Backgrounds%20for%20Template/peachesncreamwebsetback2.jpg) repeat 0 0;
+}
+
+
+
+</style>
